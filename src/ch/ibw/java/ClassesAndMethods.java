@@ -20,6 +20,9 @@ public class ClassesAndMethods {
     p = null; // Hat keinen Effekt auf die Referenz p1, welche vom Aufrufer verwendet wird!
   }
 
+  // Test git commit
+
+
   // static = Methode einer Klasse (nicht Objekt!)
   // Person = Type des Rückgabewertes
   // createPerson = Name der Methode
